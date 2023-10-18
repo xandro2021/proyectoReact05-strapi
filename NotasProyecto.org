@@ -1,0 +1,10 @@
+#+title: Notas Proyecto
+
+* Commando Strapi
++ Revisar notas externas de carpeta padre. proyectoReact05-strapi.org
+#+begin_src bash
+npx create-strapi-app@latest
+#+end_src
+
+* Remix
+Es un framework de React alternativo NextJS y pertenece a los mismos creadores de react-router-dom por lo que se presentaran algunas similaridades con respecto al proyecto anterior como lo son los loaders y actions
